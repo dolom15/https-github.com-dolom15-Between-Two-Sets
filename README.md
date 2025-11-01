@@ -1,1 +1,1 @@
-# https-github.com-dolom15-Between-Two-Sets
+# https-github.com-dolom15-Between-Two-Sets This code tracks how many times a player breaks their highest and lowest score records throughout a series of games by iterating through the `scores` list and updating counters whenever a new high or low is encountered. It then returns a list containing the total count of record-breaking highs and lows.
